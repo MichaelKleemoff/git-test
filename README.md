@@ -10,4 +10,19 @@
 
 ---
 
-I am a Fellow in the Pursuit Full-Stack Sofware Engineering program.
+I am a Fellow at the Pursuit Full-Stack Sofware Engineering program.
+
+---
+
+<br />
+
+### My technologies are:
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Node
+- Express
+- Postgres
+- Postman
