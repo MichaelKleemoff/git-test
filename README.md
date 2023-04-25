@@ -26,3 +26,5 @@ I am a Fellow at the Pursuit Full-Stack Sofware Engineering program.
 - Express
 - Postgres
 - Postman
+
+Trying to get out of the rabbit hole.
